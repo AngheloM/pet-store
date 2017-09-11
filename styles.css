@@ -1,6 +1,16 @@
 body {
-  background-color: #CCF1FE
+  background-color: #CCF1FE;
 }
+
+#all-pets {
+  width: 100%;
+}
+
 .individual-pet {
 	color: red;
+  font-size: 125%;
+  font-family: sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
