@@ -1,5 +1,6 @@
 body {
   background-color: #CCF1FE
 }
-  all-pets { font: arial
- }
+.individual-pet {
+	color: red;
+}
