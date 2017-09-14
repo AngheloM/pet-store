@@ -2,6 +2,10 @@ body {
   background-color: #CCF1FE;
 }
 
+#store-name{
+  color: red;
+  text-align: center;
+}
 #all-pets {
   width: 100%;
 }
